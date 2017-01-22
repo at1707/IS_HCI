@@ -1,0 +1,25 @@
+Progress Report 
+=================================================
+
+Week 01/15 - 01/22
+	• Searched for papers related to usability evaluation of eGovernment websites
+	• Read the paper Evaluating Usability of Web-Based Electronic Government: Users’ Perspective
+	  by Zhao Huang and Laurence Brooks , INTERACT 2011 proceedings
+	• The paper is survey-based. Uses survey questionnaire to collect responses from praticipants.
+	• The users are given a task sheet where they perform tasks as specified in the sheet and then 
+	  fill the questionnaire.
+ 	• The paper uses the famous Nielsen's usability heuristics for usability evaluation and
+ 	  extends those to suit these eGov websites layouts and needs.
+ 	• The paper evaluates three websites - London Authority 1, 2 and 3. The websites strengths and 	 problems are then identified.
+ 	• User's perception of the websites, the ease of use and the accessibility features are 
+ 	  assessed based on the experiences of the users.
+	• The paper tends to give insights to designers to use these problems as a point of
+	  improvement of these websites so that the users can have a better experience while navigating through these websites
+
+Next week goals/plans:
+Choose another paper(s) for literature review.
+Discuss with the mentor ideas/insights and what topics to work on
+Plan out future working schedule
+
+ 
+ 
